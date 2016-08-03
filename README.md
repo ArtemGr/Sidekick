@@ -16,6 +16,8 @@ https://discordapp.com/oauth2/authorize?&client_id=209040908673482753&scope=bot&
 
 `/r 2d6>=5` - Roll two hexahedrons and take only the ones that turned greater or equal to five (aka difficulty check).
 
+`/r 4d6=5` - So can this guy roll five?
+
 `/r (2+2)^2` - Do math.
 
 `/r 4d6^2` - Do math with dice.
