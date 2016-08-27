@@ -22,3 +22,7 @@ https://discordapp.com/oauth2/authorize?&client_id=209040908673482753&scope=bot&
 `/r (2+2)^2` - Do math.
 
 `/r 4d6^2` - Do math with dice.
+
+```
+```
+[![Analytics](https://ga-beacon.appspot.com/UA-83241762-1/README)](https://github.com/igrigorik/ga-beacon)
