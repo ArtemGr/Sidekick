@@ -19,6 +19,12 @@ https://discordapp.com/oauth2/authorize?&client_id=209040908673482753&scope=bot&
 
 `/r 4d6=5` - So can this guy roll five?
 
+`/r 3d6!` - Exploding dice.
+
+`/r 1d10!>9` - Explode nine and ten.
+
+`/r 1d20!1` - Roll twenty, reroll on one (because halflings are lucky).
+
 `/r (2+2)^2` - Do math.
 
 `/r 4d6^2` - Do math with dice.
