@@ -15,7 +15,7 @@ https://discordapp.com/oauth2/authorize?&client_id=209040908673482753&scope=bot&
 `/r 1d20+5 # Grog attacks` - Roll dice with a comment.<br>
 (Here's a regular expression that separates the comment from the roll: https://www.debuggex.com/r/cCf3nrjYdt221Lb1).
 
-`/r 2d6>=5` - Roll two hexahedrons and take only the ones that turned greater or equal to five (aka difficulty check).
+`/r 2d6>=5` - Roll two hexahedrons and take only the ones that turned greater or equal to five (aka difficulty check). Prints the number of successes.
 
 `/r 4d6=5` - So can this guy roll five?
 
