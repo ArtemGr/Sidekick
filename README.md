@@ -27,6 +27,8 @@ https://discordapp.com/oauth2/authorize?&client_id=209040908673482753&scope=bot&
 
 `/r 1d20!1` - Roll twenty, reroll on one (because halflings are lucky).
 
+`/r 3d10!>=8` - nWoD roll: tens explode, eights and up are treated like a success.
+
 `/r 4d6k3` - Roll four hexahedrons and keep the highest three (D&D 5e ability roll).
 
 `/r 2d20kl1` - Roll twice and keep the lowest roll (D&D 5e disadvantage).
