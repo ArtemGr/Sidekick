@@ -19,6 +19,8 @@ https://discordapp.com/oauth2/authorize?&client_id=209040908673482753&scope=bot&
 
 `/r 4d6=5` - So can this guy roll five?
 
+`/r 3d10>=6f1` - oWoD roll: rolling *one* is a failure, rolling more failures than successes is a *botch*.
+
 `/r 3d6!` - Exploding dice.
 
 `/r 1d10!>9` - Explode nine and ten.
