@@ -8,6 +8,8 @@ If you've found a bot that's more awesome at rolling dice, file a bug!
 Just follow this link:
 https://discordapp.com/oauth2/authorize?&client_id=209040908673482753&scope=bot&permissions=0
 
+The link will prompt you to authorize the bot on a server. Once the bot's authorized, you'll see it in the Member List. In a public channel just type any of the commands outlined below and the bot will answer with a dice roll.
+
 ## Using it
 
 `/r 1d8 + 4d6` - Roll one octahedron and four hexahedrons.
