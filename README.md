@@ -22,6 +22,8 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r 3d10>=6f1` - oWoD roll: rolling *one* is a failure, rolling more failures than successes is a *botch*.
 
+`/r 4dF` - [Fudge/Fate dice](http://rpg.stackexchange.com/questions/1765/what-game-circumstance-uses-fudge-dice).
+
 `/r 3d6!` - Exploding dice.
 
 `/r 1d10!>9` - Explode nine and ten.
