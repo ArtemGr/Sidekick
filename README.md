@@ -42,6 +42,12 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r 4d6^2` - Do math with dice.
 
+## We need your support
+
+If you want to help me spend more time on the bot, help your fellow players get better features fast,
+or simply want to thank me and share a cup of beer,
+please brave a visit to [my Patreon page](https://www.patreon.com/user?u=4695668)!
+
 ```
 ```
 [![Analytics](https://ga-beacon.appspot.com/UA-83241762-1/README)](https://github.com/igrigorik/ga-beacon)
