@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 `+` Patreon link.
 
 ### [1.2.0] - 2016-09-15
-`+` WoD rolls ([#4](https://github.com/ArtemGr/Sidekick/issues/4) and [#5]((https://github.com/ArtemGr/Sidekick/issues/5)),
+`+` WoD rolls ([#4](https://github.com/ArtemGr/Sidekick/issues/4) and [#5](https://github.com/ArtemGr/Sidekick/issues/5),
 [announcement](https://www.reddit.com/r/discordapp/comments/53hdz1/wod_support_landed_in_sidekick/)).
 
 ### [1.1.0] - 2016-08-30
