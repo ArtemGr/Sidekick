@@ -3,8 +3,8 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
-### [1.3.0] - 2017-01-..
-`+` Use a sharded connection to Discord.
+### [1.3.0] - 2017-01-15
+`+` Use a sharded connection to Discord.  
 `+` Recurrent explosion ([#7](https://github.com/ArtemGr/Sidekick/issues/7)).  
 `+` Fudge/Fate rolls ([#13](https://github.com/ArtemGr/Sidekick/issues/13)).  
 `+` Patreon link.
