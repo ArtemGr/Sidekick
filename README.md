@@ -42,6 +42,12 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r 4d6^2` - Do math with dice.
 
+## You can look for players or group, too!
+
+`/lfg [online] [5e] me wants to play` - Post an LFG ad.
+
+`/lfg off` - Revoke the ad.
+
 ## We need your support
 
 If you want to help me spend more time on the bot, help your fellow players get better features fast,
