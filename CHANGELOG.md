@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.4.1] - 2017-02-21
+`+` We are now switched to a version of the driver (discord-rs) patched to use OpenSSL 0.9.
+
 ### [1.4.0] - 2017-02-11
 `+` Basic LFG implemented. You can now look for like-minded players across the board.
 
