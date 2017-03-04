@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.4.2] - 2017-03-05
+`+` High Availability failover implemented. Bot instances are now more closely monotored by watchdog.
+
 ### [1.4.1] - 2017-02-21
 `+` We are now switched to a version of the driver (discord-rs) patched to use OpenSSL 0.9.
 
