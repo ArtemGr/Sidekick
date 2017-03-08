@@ -54,6 +54,10 @@ If you want to help me spend more time on the bot, help your fellow players get 
 or simply want to thank me and share a cup of beer,
 please brave a visit to [my Patreon page](https://www.patreon.com/user?u=4695668)!
 
+## Charts
+
+![servers](https://blooks.today/r/sidekick-servers.gif)
+
 ```
 ```
 [![Analytics](https://ga-beacon.appspot.com/UA-83241762-1/README)](https://github.com/igrigorik/ga-beacon)
