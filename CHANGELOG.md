@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.5.0] - 2017-04-18
+`+` Database integration with timeouts.
+`+` Ability to save rolls for later. /r $wp = 5. /r $wp.
+
 ### [1.4.2] - 2017-03-05
 `+` High Availability failover implemented ([announcement](https://www.reddit.com/r/discordapp/comments/5xjqia/the_bots_on_high_and_available/)).  
 `+` Bot instances are now more closely monotored by the watchdog.

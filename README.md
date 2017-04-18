@@ -42,11 +42,11 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r 4d6^2` - Do math with dice.
 
-## You can look for players or group, too!
+## You can save the rolls for later!
 
-`/lfg [online] [5e] me wants to play` - Post an LFG ad.
+`/r $persuasion = 2d20k1+3` - Remember the roll.
 
-`/lfg off` - Revoke the ad.
+`/r $persuasion` - Use the memorized roll again.
 
 ## We need your support
 
