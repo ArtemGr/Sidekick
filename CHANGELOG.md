@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.5.1] - 2017-05-02
+`+` AOL syntax (sponsored by Justin Dafonte).
+
 ### [1.5.0] - 2017-04-18
 `+` Database integration with timeouts.
 `+` Ability to save rolls for later. /r $wp = 5. /r $wp.

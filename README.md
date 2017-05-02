@@ -38,6 +38,8 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r 2d20kl1` - Roll twice and keep the lowest roll (D&D 5e disadvantage).
 
+`//roll-dice3-sides999` - AOL syntax. Dice noir.
+
 `/r (2+2)^2` - Do math.
 
 `/r 4d6^2` - Do math with dice.
