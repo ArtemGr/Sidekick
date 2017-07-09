@@ -52,6 +52,8 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r $persuasion =` - Remove it.
 
+`/r $` - List the memorized rolls.
+
 ## We need your support
 
 If you want to help me spend more time on the bot, help your fellow players get better features fast,
