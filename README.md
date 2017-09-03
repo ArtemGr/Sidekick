@@ -36,6 +36,8 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r repeat (4d6k3, 6)` - Roll D&D 5e ability score six times (to generate a new character).
 
+`/r repeat (d6, 3, brief)` - In Nomine. 1, 1, 1.
+
 `/r 2d20kl1` - Roll twice and keep the lowest roll (D&D 5e disadvantage).
 
 `//roll-dice3-sides999` - AOL syntax. Dice noir.
@@ -44,7 +46,7 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r 4d6^2` - Do math with dice.
 
-## You can save the rolls for later!
+## You can save the rolls for later (WIP)!
 
 `/r $persuasion = 2d20k1+3` - Remember the roll.
 
