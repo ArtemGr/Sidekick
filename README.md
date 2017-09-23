@@ -46,13 +46,15 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r 4d6^2` - Do math with dice.
 
-## You can save the rolls for later (WIP)!
+## You can save the rolls for later!
 
 `/r $persuasion = 2d20k1+3` - Remember the roll.
 
 `/r $persuasion` - Use the memorized roll again.
 
 `/r $persuasion =` - Remove it.
+
+`/r $MAX_STR = 22` - All-caps named rolls belong to the channel and can be used by any user in it.
 
 `/r $` - List the memorized rolls.
 
