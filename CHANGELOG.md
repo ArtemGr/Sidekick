@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.5.5] - 2017-12-13
+`+` OVA rolls.
+`+` Shards separated from handlers. UDP messaging between the shards and the handlers.
+
 ### [1.5.4] - 2017-09-24
 `+` It is now possible to create a channel-wide memorized roll by using a capital letters name.
 
