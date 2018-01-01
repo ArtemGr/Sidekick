@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.5.6] - 2018-01-01
+`+` Rerolls, 3d6r1.
+
 ### [1.5.5] - 2017-12-13
 `+` OVA rolls.
 `+` Shards separated from handlers. UDP messaging between the shards and the handlers.

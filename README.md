@@ -28,7 +28,7 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r 1d10!>9` - Explode nine and ten.
 
-`/r 1d20!1k1` - Roll twenty, reroll on one (because halflings are lucky).
+`/r 1d20r1` - Roll twenty, reroll on one (because halflings are lucky).
 
 `/r 3d10!>=8` - nWoD roll: tens explode, eights and up are treated like a success.
 
