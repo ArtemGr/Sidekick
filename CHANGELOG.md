@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.5.7] - 2018-01-06
+`!` High Availability shard failover reimplemented: handlers are used to synchronize usage statistics between the shards,
+    allowing failover shards to connect whenever primary shards stop getting events.
+
 ### [1.5.6] - 2018-01-01
 `+` Rerolls, 3d6r1.
 
