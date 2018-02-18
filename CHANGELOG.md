@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.5.8] - 2018-02-18
+`+` Replicated (master-master, asynchronous, eventually consistent) SQLite implemented, providing a High Availability database layer.  
+`+` The bot can now deal cards (#95): `/r deal 3`, `/r shuffle`.
+
 ### [1.5.7] - 2018-01-06
 `!` High Availability shard failover reimplemented: handlers are used to synchronize usage statistics between the shards,
     allowing failover shards to connect whenever primary shards stop getting events.
@@ -11,7 +15,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 `+` Rerolls, 3d6r1.
 
 ### [1.5.5] - 2017-12-13
-`+` OVA rolls.
+`+` OVA rolls.  
 `+` Shards separated from handlers. UDP messaging between the shards and the handlers.
 
 ### [1.5.4] - 2017-09-24

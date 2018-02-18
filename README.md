@@ -60,6 +60,12 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r $` - List the memorized rolls.
 
+## You can deal cards!
+
+`/r deal 3` - Deal three cards.
+
+`/r shuffle` - Get and shuffle a new deck.
+
 ## We need your support
 
 If you want to help me spend more time on the bot, help your fellow players get better features fast,
