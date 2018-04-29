@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.5.9] - 2018-04-29
+`!` Memorized rolls and statistics moved from a single PostgreSQL server to the replicated High Availability embedded SQLite pair.
+
 ### [1.5.8] - 2018-02-18
 `+` Replicated (master-master, asynchronous, eventually consistent) SQLite implemented, providing a High Availability database layer.  
 `+` The bot can now deal cards (#95): `/r deal 3`, `/r shuffle`.
