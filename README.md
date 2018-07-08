@@ -72,6 +72,8 @@ If you want to help me spend more time on the bot, help your fellow players get 
 or simply want to thank me and share a cup of beer,
 please brave a visit to [my Patreon page](https://www.patreon.com/user?u=4695668)!
 
+`/r patrons` - See the list of patrons active on the current server.
+
 ## Charts
 
 ![servers](https://blooks.today/r/sidekick-servers.gif)
