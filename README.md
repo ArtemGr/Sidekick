@@ -68,9 +68,9 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 ## We need your support
 
-If you want to help me spend more time on the bot, help your fellow players get better features fast,
+If you want to help the maintenance and development of the bot, and your fellow players to get better features fast,
 or simply want to thank me and share a cup of beer,
-please brave a visit to [my Patreon page](https://www.patreon.com/user?u=4695668)!
+please brave a visit to [the bot's Patreon page](https://www.patreon.com/SidekickBot)!
 
 `/r patrons` - See the list of patrons active on the current server.
 
