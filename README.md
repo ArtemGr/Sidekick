@@ -32,6 +32,12 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r 3d10!>=8` - nWoD roll: tens explode, eights and up are treated like a success.
 
+`/r 2d20k1` - Roll twice and keep the highest roll (D&D 5e advantage).
+
+`/r 2d20k1 + 2` - Roll twice and keep the highest roll, with a modifier (D&D 5e advantage).
+
+`/r 2d20kl1` - Roll twice and keep the lowest roll (D&D 5e disadvantage).
+
 `/r 4d6k3` - Roll four hexahedrons and keep the highest three (D&D 5e ability roll).
 
 `/r repeat (4d6k3, 6)` - Roll D&D 5e ability score six times (to generate a new character).
@@ -39,8 +45,6 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 `/r repeat (d6, 3, brief)` - In Nomine. 1, 1, 1.
 
 `/r ova (5)` - OVA. 6, 6, 1, 1, 1 = 12.
-
-`/r 2d20kl1` - Roll twice and keep the lowest roll (D&D 5e disadvantage).
 
 `//roll-dice3-sides999` - AOL syntax. Dice noir.
 
