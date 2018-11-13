@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.6.2] - 2018-11-13
+`+` Multiple failure conditions: `/r 1d10>6f1f2f3`.
+
 ### [1.6.1] - 2018-10-17
 `+` Mention the inquirer in the `/r deal` replies.
 
