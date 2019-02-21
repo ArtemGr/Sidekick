@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.6.3] - 2019-02-21
+`+` The `:scrissors:` emoji (✂) tells Sidekick to delete it's message.
+
 ### [1.6.2] - 2018-11-13
 `+` Multiple failure conditions: `/r 1d10>6f1f2f3`.
 
