@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.6.4] - 2019-03-11
+`+` The "t" option can be used to count a face [twice](https://github.com/ArtemGr/Sidekick/issues/151).
+
 ### [1.6.3] - 2019-02-21
 `+` The `:scrissors:` emoji (✂) tells Sidekick to delete it's message.
 
