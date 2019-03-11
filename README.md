@@ -34,6 +34,8 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r 3d10!>=8` - nWoD roll: tens explode, eights and up are treated like a success.
 
+`/r 1d10t10` - If a ten is rolled then count it [twice](https://github.com/ArtemGr/Sidekick/issues/151).
+
 `/r 2d20k1` - Roll twice and keep the highest roll (D&D 5e advantage).
 
 `/r 2d20k1 + 2` - Roll twice and keep the highest roll, with a modifier (D&D 5e advantage).
