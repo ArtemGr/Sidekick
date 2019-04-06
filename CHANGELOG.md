@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.7.0] - 2019-04-06
+`+` The spaces are no longer squashed before the parsing, allowing us to implement space-using dice notations.
+
 ### [1.6.4] - 2019-03-11
 `+` The "t" option can be used to count a face [twice](https://github.com/ArtemGr/Sidekick/issues/151).
 
