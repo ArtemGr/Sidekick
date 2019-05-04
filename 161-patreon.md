@@ -11,7 +11,7 @@ patreon next step, we need to send a message into the channel, we know the chann
 
 `+` iterate over the `disco_patron_keys`
 
-`-` send the message
+`+` send the message
 
 `-` insert that message into the schedule table as well, but only after it has been sent to Discord (i think)
 
@@ -19,4 +19,4 @@ patreon next step, we need to send a message into the channel, we know the chann
 
 --- with Dark Eclipse -------
 
-`-` use `ChannelInfo::kind` in `fn dice_shard_worker` to forward private communication with Sidekick to the handler
+`+` use `ChannelInfo::kind` in `fn dice_shard_worker` to forward private communication with Sidekick to the handler
