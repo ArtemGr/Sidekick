@@ -48,6 +48,8 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r repeat (d6, 3, brief)` - In Nomine. 1, 1, 1.
 
+`/r repeat (1d20+1, 5, short sum)` - Sum the rolls.
+
 `/r ova (5)` - OVA. 6, 6, 1, 1, 1 = 12.
 
 `//roll-dice3-sides999` - AOL syntax. Dice noir.

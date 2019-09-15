@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.7.1] - 2019-09-16
+`!` Communication between shards, handlers and database replicas moved from custom UDP to HTTP as a workaround for a `may` building [issue](https://github.com/ArtemGr/Sidekick/issues/195#issuecomment-511734402).  
+`+` The [sum flag](https://github.com/ArtemGr/Sidekick/issues/181#issuecomment-531603458) tells `repeat` to sum the results.
+
 ### [1.7.0] - 2019-04-06
 `+` The spaces are no longer squashed before the parsing, allowing us to implement space-using dice notations.
 
@@ -52,7 +56,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 `+` AOL syntax (sponsored by Justin Dafonte).
 
 ### [1.5.0] - 2017-04-18
-`+` Database integration with timeouts.
+`+` Database integration with timeouts.  
 `+` Ability to save rolls for later. /r $wp = 5. /r $wp.
 
 ### [1.4.2] - 2017-03-05
