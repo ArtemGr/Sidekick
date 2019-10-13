@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.8.0] - 2019-10-13
+`+` Explosions are now printed [adjacent to the exploded face](https://github.com/ArtemGr/Sidekick/issues/71#issuecomment-541403654).
+
 ### [1.7.1] - 2019-09-16
 `!` Communication between shards, handlers and database replicas moved from custom UDP to HTTP as a workaround for a `may` building [issue](https://github.com/ArtemGr/Sidekick/issues/195#issuecomment-511734402).  
 `+` The [sum flag](https://github.com/ArtemGr/Sidekick/issues/181#issuecomment-531603458) tells `repeat` to sum the results.
