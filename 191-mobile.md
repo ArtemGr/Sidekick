@@ -22,6 +22,13 @@
   → ☐ Generate the private/public pair in the application and share the public part with the bot by using the *ephemeral secret* channel.
   → ☐ Use the assymetric cryptography to generate a new *ephemeral secret* (and *session ID*).
 
+☑ Receive text input from mobile app  
+☐ “/r bind app” on any private channel → generate a temporary (lm) bind key, return the public part  
+→ ☐ If the user is not a patron, suggest getting a patron key  
+☐ Check if the hash of the mobile message matches the stored hash of the public part  
+☐ If it is then share the bind secret (or hash / public key) with the app  
+☐ Send the secret with the polling requests  
+
 ☐ Upload screenshot points into Sidekick  
 ☐ Fuel certain schedule activities with points  
 → ☐ Reaction that marks an activity as point-based (at certain scale)?  
