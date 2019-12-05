@@ -21,3 +21,9 @@
   → ☐ Generate the private/public pair in the bot and share the public part with the application by using the *ephemeral secret* channel.
   → ☐ Generate the private/public pair in the application and share the public part with the bot by using the *ephemeral secret* channel.
   → ☐ Use the assymetric cryptography to generate a new *ephemeral secret* (and *session ID*).
+
+☐ Upload screenshot points into Sidekick  
+☐ Fuel certain schedule activities with points  
+→ ☐ Reaction that marks an activity as point-based (at certain scale)?  
+→ ☐ A different kind of reaction that also allows to go into minus? That way we can track the time spent together in a pairing activities that needs to later be reinbursed?  
+☐ Should be able to see and edit the (recent) history of point transactions, in order for Sidekick to be useable as a general purpose ledger  
