@@ -34,3 +34,6 @@
 → ☐ Reaction that marks an activity as point-based (at certain scale)?  
 → ☐ A different kind of reaction that also allows to go into minus? That way we can track the time spent together in a pairing activities that needs to later be reinbursed?  
 ☐ Should be able to see and edit the (recent) history of point transactions, in order for Sidekick to be useable as a general purpose ledger  
+
+☐ Mention how Discord was down on 2019-12-07, https://status.cloud.google.com/incident/compute/19012  
+  The app allows accessing the bot even when the Discord is down.
