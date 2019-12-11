@@ -1,33 +1,19 @@
-☐ Register the application with the bot
-
-    ephemeral-channel: robot (ephemeral secret) <-> ciphertext <-> application (ephemeral secret)
-    robot (public key) <- a part of a new ephemeral secret <- ephemeral-channel <- application (private key)
-    robot (private key) -> ephemeral-channel -> a part of a new ephemeral secret -> application (public key)
-
-    For simplicity and reuse, all communication between the application and the bot is encrypted with an ephemeral secret (so it is never simply discarded but only replaced with a new one). Also it offers a measure of protection against a man-in-the-middle attack.
-
-    TABLE (session_id, ephemeral_secret, discord_uid)
-
-  → ☐ See if we can use WASM from Flutter/Dart, this will allow us to implement the encryption once (in Rust).
-    ⇒ https://pub.dev/packages/puppeteer, https://pub.dev/packages/chrome_dev_tools - headless Chrome.
-    ⇒ https://pub.dev/packages/js - official JS interopt, part of the SDK, don't know which engine they hitch.
-      ^ https://api.dart.dev/stable/2.3.1/dart-js/dart-js-library.html - documents the above?
-      ^ https://pub.dev/documentation/js/latest/js_util/js_util-library.html
-        "dart:js is soft deprecated, and package:js should be used" ??
-      Looks like we'll have to try it.
-  → ☐ Handle a registration command.
-  → ☐ Upon the registration generate a small *session ID* with a small *ephemeral secret* and share them with the user (as a single number maybe).
-  → ☐ In the application provide a way to enter the *ephemeral secret* once.
-  → ☐ Generate the private/public pair in the bot and share the public part with the application by using the *ephemeral secret* channel.
-  → ☐ Generate the private/public pair in the application and share the public part with the bot by using the *ephemeral secret* channel.
-  → ☐ Use the assymetric cryptography to generate a new *ephemeral secret* (and *session ID*).
-
 ☑ Receive text input from mobile app  
-☐ “/r bind app” on any private channel → generate a temporary (lm) bind key, return the public part  
+☑ “/r bind app” on any private channel → generate a temporary (lm) bind key, return the public part  
 → ☐ If the user is not a patron, suggest getting a patron key  
-☐ Check if the hash of the mobile message matches the stored hash of the public part  
-☐ If it is then share the bind secret (or hash / public key) with the app  
-☐ Send the secret with the polling requests  
+☑ Check if the hash of the mobile message matches the stored hash of the public part  
+☑ If it is then share the bind secret (or hash / public key) with the app  
+☑ Send the secret with the polling requests  
+☐ Check the secret while handling `Poll` in `fn mobile`  
+☐ Refactor the schedule function to use the channel/author ID obtained  
+
+orion2046] lfg:553] 06:53:36] mobileˡ] res: {key: 1731671987625594485, secret: gSkt5w0pmv3RK2F9fBr9d7DrBQOIUK}
+
+sqlite> select * from bind_app_secrets;
+key|secret|channel|lm|lu
+1731671987625594485|gSkt5w0pmv3RK2F9fBr9d7DrBQOIUK|210056925897949184|1576036415|1576036415
+
+---
 
 ☐ Upload screenshot points into Sidekick  
 ☐ Fuel certain schedule activities with points  
