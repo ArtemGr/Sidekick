@@ -4,16 +4,8 @@
 ☑ Check if the hash of the mobile message matches the stored hash of the public part  
 ☑ If it is then share the bind secret (or hash / public key) with the app  
 ☑ Send the secret with the polling requests  
-☐ Check the secret while handling `Poll` in `fn mobile`  
-☐ Refactor the schedule function to use the channel/author ID obtained  
-
-orion2046] lfg:553] 06:53:36] mobileˡ] res: {key: 1731671987625594485, secret: gSkt5w0pmv3RK2F9fBr9d7DrBQOIUK}
-
-sqlite> select * from bind_app_secrets;
-key|secret|channel|lm|lu
-1731671987625594485|gSkt5w0pmv3RK2F9fBr9d7DrBQOIUK|210056925897949184|1576036415|1576036415
-
----
+☑ Check the secret while handling `Poll` in `fn mobile`  
+☑ Refactor the schedule function to use the channel/author ID obtained  
 
 ☐ Upload screenshot points into Sidekick  
 ☐ Fuel certain schedule activities with points  
