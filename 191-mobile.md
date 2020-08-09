@@ -1,3 +1,6 @@
+
+☐ Document the HTTP API and share it with Fraks
+
 ☑ Receive text input from mobile app  
 ☑ “/r bind app” on any private channel → generate a temporary (lm) bind key, return the public part  
 → ☐ If the user is not a patron, suggest getting a patron key  
