@@ -5,8 +5,8 @@
 → ☐ setup google client (wsl?)  
 ☐ randomize colors  
 ☐ link to the video from the README  
-☐ think about sharing the nodes at https://github.com/ArtemGr/Sidekick  
-→ ☐ copy the Git history of the notes?  
+☑ think about sharing the notes at https://github.com/ArtemGr/Sidekick  
+→ ☑ copy the Git history of the notes?  
 ☐ automatic push  
 ☐ add Agenda reports  
 ☐ and/or include activity registered with Agenda into a virtual folder  
