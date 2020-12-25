@@ -17,6 +17,7 @@
 ☐ combining different projects, including the whole picture?
 
 ☐ Move Sidekick notes to a public repo  
+☐ Public notes for the GUN tasks, starting with `maps`  
 ☐ Generate a semi-readable top-down JSON report (can feed it into ObservavleHQ later)
 
 ☐ Automatically generate a screenshot of ObservavleHQ graphics for GitHub gif embedding (OSS)
