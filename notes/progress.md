@@ -3,7 +3,7 @@
 ☐ learn to select the last few weeks  
 ☐ upload the video somewhere (google storage?)  
 → ☐ setup google client (wsl?)  
-☐ randomize colors  
+☑ randomize colors  
 ☐ link to the video from the README  
 ☑ think about sharing the notes at https://github.com/ArtemGr/Sidekick  
 → ☑ copy the Git history of the notes?  
@@ -16,14 +16,14 @@
 ☐ Dynamic (configurable) AV1 online streams?  
 ☐ combining different projects, including the whole picture?
 
-☐ Move Sidekick notes to a public repo  
 ☐ Public notes for the GUN tasks, starting with `maps`  
 ☐ Generate a semi-readable top-down JSON report (can feed it into ObservavleHQ later)
 
 ☐ Automatically generate a screenshot of ObservavleHQ graphics for GitHub gif embedding (OSS)
 
 ☐ Embed gource gif in README,  
-cf. https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md → https://superuser.com/questions/436056/how-can-i-get-ffmpeg-to-convert-a-mov-to-a-gif
+cf. https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md → https://superuser.com/questions/436056/how-can-i-get-ffmpeg-to-convert-a-mov-to-a-gif  
+☐ Also for Mercatos?
 
 ☐ Parse “health,history.md” and other such files, grab the dates and add them to gource (OSS)  
 ☐ Load dp-charts into TimelineDb?  

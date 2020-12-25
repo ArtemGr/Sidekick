@@ -3,14 +3,14 @@ Superior dice bot for Discord.
 
 If you've found a bot that's more awesome at rolling dice, file a bug!
 
-## How to install
+## how to install
 
 Just follow this link:
 https://discordapp.com/oauth2/authorize?&client_id=209040908673482753&scope=bot&permissions=0
 
 The link will prompt you to authorize the bot on a server. Once the bot's authorized, you'll see it in the Member List. In a public channel just type any of the commands outlined below and the bot will answer with a dice roll.
 
-## Using it
+## using it
 
 `/r 1d8 + 4d6` - Roll one octahedron and four hexahedrons.
 
@@ -58,7 +58,7 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r 4d6^2` - Do math with dice.
 
-## You can save the rolls for later!
+## cansave the rolls for later!
 
 `/r $persuasion = 2d20k1+3` - Remember the roll.
 
@@ -70,17 +70,15 @@ The link will prompt you to authorize the bot on a server. Once the bot's author
 
 `/r $` - List the memorized rolls.
 
-## You can deal cards!
+## can deal cards!
 
 `/r deal 3` - Deal three cards.
 
 `/r shuffle` - Get and shuffle a new deck.
 
-## We need your support
+## blog
 
-If you want to help the maintenance and development of the bot, and your fellow players to get better features fast,
-or simply want to thank me and share a cup of beer,
-please brave a visit to [the bot's Patreon page](https://www.patreon.com/SidekickBot)!
+Using [the Patreon page](https://www.patreon.com/SidekickBot) to share some of the news. The number of patrons is also an indicator of sorts for whether the bot is needed or not.
 
 `/r patrons` - See the list of patrons active on the current server.
 
