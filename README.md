@@ -86,8 +86,4 @@ please brave a visit to [the bot's Patreon page](https://www.patreon.com/Sidekic
 
 ## Charts
 
-![servers](https://blooks.today/r/sidekick-servers.gif)
-
-```
-```
-[![Analytics](https://ga-beacon.appspot.com/UA-83241762-1/README)](https://github.com/igrigorik/ga-beacon)
+TBD
