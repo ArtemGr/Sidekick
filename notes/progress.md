@@ -3,6 +3,9 @@
 ☐ learn to select the last few weeks  
 ☐ upload the video somewhere (google storage?)  
 → ☐ setup google client (wsl?)  
+→ ☐ upload also the personal timeline  
+→ ☐ only build the videos when the log changed  
+→ ☐ only generate the logs when there are indications of a new commit, or time passed  
 ☑ randomize colors  
 ☐ link to the video from the README  
 ☑ think about sharing the notes at https://github.com/ArtemGr/Sidekick  

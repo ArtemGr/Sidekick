@@ -6,6 +6,7 @@ https://github.com/ArtemGr/Sidekick/issues/232
 ☐ Build the binary locally (under the WSL), rsync to the server (cargo.md / musl)  
 → ☑ Remove hyper and websocket from discord-rs in order to proceed with musl  
 → ☑ Figure which dependencies result in linking errors  
+→ ☐ Consider using a different driver?  
 → ☐ Switch discord-rs websocket client to a rustls version  
 → ☐ Switch discord-rs http client to attohttpc  
 ☐ Implement token grab  
