@@ -16,7 +16,7 @@ https://github.com/ArtemGr/Sidekick/issues/232
 → ☐ Workaround reCAPTCHA, p2p, gun  
 → → ☐ Experiment with https://en.wikipedia.org/wiki/Xvfb VNC  
 → ☐ Send a warning automatically when close to the end of the reconnect counter  
-→ ☐ Use the new driver in `check`, to see if the token is valid  
+→ ☑ Use the new driver in `check`, to see if the token is valid  
 ☐ Use a browser to exchange reactions with the bot, automatically testing liveliness and response time?  
 ☒ Experiment with proactive websocket restarts: What if reconnecting websocket allows Cloudflare to do rolling updates? Proactive restart might result in a shorter downtime then  
 → ☒ See if proactive `Regenerate` resets the counters ⇒ It does not!  
