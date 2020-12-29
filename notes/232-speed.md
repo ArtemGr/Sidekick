@@ -12,7 +12,7 @@ https://github.com/ArtemGr/Sidekick/issues/232
 ☐ Implement token grab  
 → ☑ Login locally  
 → ☒ Login on the server  
-→ ☐ Semi-automatic upload and rebuild  
+→ ☑ Semi-automatic upload and restart  
 → ☐ Workaround reCAPTCHA, p2p, gun  
 → → ☐ Experiment with https://en.wikipedia.org/wiki/Xvfb VNC  
 → ☐ Send a warning automatically when close to the end of the reconnect counter  
