@@ -12,6 +12,7 @@
 → ☑ copy the Git history of the notes?  
 ☐ automatic push  
 ☐ add Agenda reports  
+→ ☐ a JSON exported to an URL  
 ☐ and/or include activity registered with Agenda into a virtual folder  
 ☐ include new (and reccuring?) backers
 
