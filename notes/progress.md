@@ -29,9 +29,7 @@
 cf. https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md → https://superuser.com/questions/436056/how-can-i-get-ffmpeg-to-convert-a-mov-to-a-gif  
 ☐ Also for Mercatos?
 
-☐ Parse “health,history.md” and other such files, grab the dates and add them to gource (OSS)  
+☑ Parse local journals and notes, grab the dates and add them to gource  
 ☐ Load dp-charts into TimelineDb?  
 ☐ Grab LiveJournal entries, generate a MarkDown file from them, and include the title dates from it in gource (OSS)  
 ☐ A service that would grab the Kindle notes, would mark when a new note have appeared compared to the existing ones and would add such book-related activity to gource?
-
-☐ Put a small progress report / benchmark banner in the public services and projects. Maybe an online status: what we are working on, where to read it. A trail of such statuses. Allow for positive feedback
