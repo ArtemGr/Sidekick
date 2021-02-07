@@ -3,18 +3,21 @@ https://github.com/ArtemGr/Sidekick/issues/232
 ☑ Build on a Google Compute Engine instance, `gift-one`  
 ☒ `shard_to_handler` should talk to “orion2046”  
 ☑ Start the handler and shards  
-☐ Build the binary locally (under the WSL), rsync to the server (cargo.md / musl)  
+☑ Build the binary locally (under the WSL), rsync to the server (cargo.md / musl)  
 → ☑ Remove hyper and websocket from discord-rs in order to proceed with musl  
 → ☑ Figure which dependencies result in linking errors  
-→ ☐ Consider using a different driver?  
-→ ☐ Switch discord-rs websocket client to a rustls version  
-→ ☐ Switch discord-rs http client to attohttpc  
+→ ☑ openssl MUSL  
+☐ Fix `rate limit checking error`  
 ☐ Implement token grab  
 → ☑ Login locally  
 → ☒ Login on the server  
 → ☑ Semi-automatic upload and restart  
 → ☐ Workaround reCAPTCHA  
-→ → ☐ Experiment with https://en.wikipedia.org/wiki/Xvfb VNC  
+→ → ☑ Setup xpra  
+→ → ☐ Install NodeJS  
+→ → ☐ Run the grab  
+→ → ☐ Autostart the grab  
+→ → ☐ Disable the local grab  
 → ☑ Periodic local `check`  
 → ☐ Send a warning automatically when close to the end of the reconnect counter  
 → ☑ Use the new driver in `check`, to see if the token is valid  

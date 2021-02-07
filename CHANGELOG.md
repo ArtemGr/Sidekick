@@ -4,9 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### [Unreleased]
+
+### [1.8.1] - 2021-02-07
 `+` Moved to Google Compute Engine “us-east1-b”, closer to Discord.  
 `-` Removed SQLite from shards.  
 `+` Published the development notes in order to share the intermediate progress, also to make some of the design and solution space visible.  
+`+` Switched to MUSL to build the bot locally: the build didn't fit the server RAM otherwise.
 
 ### [1.8.0] - 2019-10-13
 `+` Explosions are now printed [adjacent to the exploded face](https://github.com/ArtemGr/Sidekick/issues/71#issuecomment-541403654).
