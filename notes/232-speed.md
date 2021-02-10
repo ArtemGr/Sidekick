@@ -14,7 +14,7 @@ https://github.com/ArtemGr/Sidekick/issues/232
 → ☑ Semi-automatic upload and restart  
 → ☐ Workaround reCAPTCHA  
 → → ☑ Setup xpra  
-→ → ☐ Install NodeJS  
+→ → ☑ Install NodeJS  
 → → ☐ Run the grab  
 → → ☐ Autostart the grab  
 → → ☐ Disable the local grab  
