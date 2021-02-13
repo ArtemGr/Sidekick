@@ -8,19 +8,24 @@ https://github.com/ArtemGr/Sidekick/issues/232
 → ☑ Figure which dependencies result in linking errors  
 → ☑ openssl MUSL  
 ☐ Fix `rate limit checking error`  
-☐ Implement token grab  
+☑ Implement token grab  
 → ☑ Login locally  
 → ☒ Login on the server  
 → ☑ Semi-automatic upload and restart  
-→ ☐ Workaround reCAPTCHA  
+→ ☑ Workaround reCAPTCHA  
 → → ☑ Setup xpra  
 → → ☑ Install NodeJS  
-→ → ☐ Run the grab  
-→ → ☐ Autostart the grab  
-→ → ☐ Disable the local grab  
+→ → ☑ Run the grab  
+→ → ☑ Autostart the grab from `admin`  
+→ → ☑ Disable the local grab  
 → ☑ Periodic local `check`  
-→ ☐ Send a warning automatically when close to the end of the reconnect counter  
 → ☑ Use the new driver in `check`, to see if the token is valid  
+☐ Support RESUME  
+☐ Linux kernel websocket client (the bot only makes sense if it scales)  
+→ ☐ Initial `my-net`, to organize and scale interaction  
+→ ☐ no_std rustls  
+→ ☐ Try connecting to a Discord shard in parallel to the existing client  
+☐ Support Gateway Intents  
 ☐ Use a browser to exchange reactions with the bot, automatically testing liveliness and response time?  
 ☒ Experiment with proactive websocket restarts: What if reconnecting websocket allows Cloudflare to do rolling updates? Proactive restart might result in a shorter downtime then  
 → ☒ See if proactive `Regenerate` resets the counters ⇒ It does not!  
@@ -35,7 +40,6 @@ https://github.com/ArtemGr/Sidekick/issues/232
 ☐ Reimplement the :scissors: to work without the SQLite  
 ☐ Reduce the amount of RAM used by the shards  
 ☐ Rotate the logs, /dev/shm/gift/gift_disco_shard.log, ~/Sidekick/log  
-☐ Support RESUME  
 ☐ See if we are a [very large bot](https://discord.com/developers/docs/topics/gateway#sharding-for-very-large-bots)  
 ☐ Look into hitting `Too many open files`
 
